@@ -1,0 +1,21 @@
+# ninja log v5
+0	266	1711705113317646040	CMakeFiles/TimesheetCalculator.dir/main.cpp.o	2ea59e4259ee36b7
+267	307	1711705113360633978	TimesheetCalculator	ac436baa6d64ee33
+4	305	1711878499988759109	CMakeFiles/TimesheetCalculator.dir/main.cpp.o	2ea59e4259ee36b7
+305	2028	1711878501713315576	TimesheetCalculator	ac436baa6d64ee33
+4	3379	1711880774561274337	CMakeFiles/TimesheetCalculator.dir/main.cpp.o	2ea59e4259ee36b7
+3379	5128	1711880776314489337	TimesheetCalculator	ac436baa6d64ee33
+3	325	1711880896596622382	CMakeFiles/TimesheetCalculator.dir/main.cpp.o	2ea59e4259ee36b7
+325	365	1711880896637888873	TimesheetCalculator	ac436baa6d64ee33
+4	322	1711881024758007100	CMakeFiles/TimesheetCalculator.dir/main.cpp.o	2ea59e4259ee36b7
+322	360	1711881024797634224	TimesheetCalculator	ac436baa6d64ee33
+4	320	1711881042999819479	CMakeFiles/TimesheetCalculator.dir/main.cpp.o	2ea59e4259ee36b7
+320	362	1711881043043532392	TimesheetCalculator	ac436baa6d64ee33
+4	317	1711881076414217505	CMakeFiles/TimesheetCalculator.dir/main.cpp.o	2ea59e4259ee36b7
+317	356	1711881076453925756	TimesheetCalculator	ac436baa6d64ee33
+4	276	1711881111159117010	CMakeFiles/TimesheetCalculator.dir/main.cpp.o	2ea59e4259ee36b7
+276	313	1711881111197753990	TimesheetCalculator	ac436baa6d64ee33
+4	278	1711881232255239589	CMakeFiles/TimesheetCalculator.dir/main.cpp.o	2ea59e4259ee36b7
+278	315	1711881232293473295	TimesheetCalculator	ac436baa6d64ee33
+4	346	1711881472961176965	CMakeFiles/TimesheetCalculator.dir/main.cpp.o	2ea59e4259ee36b7
+347	386	1711881473002462039	TimesheetCalculator	ac436baa6d64ee33

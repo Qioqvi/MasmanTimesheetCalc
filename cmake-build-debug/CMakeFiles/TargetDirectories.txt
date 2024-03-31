@@ -1,0 +1,3 @@
+/Users/tommy/Documents/CLion/TimesheetCalculator/cmake-build-debug/CMakeFiles/TimesheetCalculator.dir
+/Users/tommy/Documents/CLion/TimesheetCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tommy/Documents/CLion/TimesheetCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
